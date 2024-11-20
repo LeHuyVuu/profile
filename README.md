@@ -34,15 +34,13 @@
 
 
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about Software Engineering
 
-- 👨‍💻 All of my projects are available at [supun's workspace]()
-
-- 💬 Ask me about **Java, C#, JavaScript
+- 💬 Ask me about Java, C#,C, JavaScript
 
 - 📫 How to reach me **lehuyvuok@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny and friendly
 
 <br>
 <h3 align="left">Connect with me:</h3>
