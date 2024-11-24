@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning about Software Engineering
 
-- 💬 Ask me about Java, C#,C, JavaScript
+- 💬 Ask me about Java, C#, C, JavaScript
 
 - 📫 How to reach me **lehuyvuok@gmail.com**
 
